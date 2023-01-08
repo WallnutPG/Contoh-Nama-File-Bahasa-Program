@@ -1,0 +1,10 @@
+C++         :   .cpp
+HTML        :   .html
+CSS         :   .css
+PYTHON      :   .py
+JAVA        :   .java / .js / .json
+PHP         :   .php
+TEXT        :   .txt
+MAKALAH     :   .pdf / .docx
+PPT         :   .pdf / .pptx
+LARAVEL     :   .php
